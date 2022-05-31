@@ -35,6 +35,7 @@ export * from './transfer';
 export * from './time-picker';
 export * from './tree-select';
 export * from './color-picker';
+export * from './range-input';
 
 // 数据展示
 export * from './avatar';
